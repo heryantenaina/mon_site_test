@@ -1,2 +1,3 @@
-temp/*
-*.smld
+temp/todo.txt
+*.txt
+*.xml
